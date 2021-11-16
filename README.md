@@ -13,7 +13,7 @@ each quantum bit is connect to an hadamard gate and then measured to classical b
 to achieve true randomness.
 ![alt text](https://github.com/DeathReaper42/Quantum-CoinFlipper/blob/main/images/Quantum_CoinFlipper.png)
 
-## Credits
+## Dependencies
 - IBMQ- https://quantum-computing.ibm.com
 - Qiskit Module - https://github.com/Qiskit/qiskit
 
